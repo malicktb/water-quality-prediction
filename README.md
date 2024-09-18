@@ -9,7 +9,6 @@ The availability of safe drinking water is crucial for public health. This proje
 ## Dataset
 
 - **Source:** [Kaggle Water Quality Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
-)
 - **Description:** The dataset contains measurements of different water quality parameters and their corresponding potability status.
 
 ## Models Implemented
