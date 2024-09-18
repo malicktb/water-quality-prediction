@@ -31,3 +31,7 @@ The availability of safe drinking water is crucial for public health. This proje
 - **Best Performing Model:** Random Forest Classifier with 80% accuracy.
 - **Other Notable Models:** XGBoost Classifier with 78% accuracy, and MLP Classifier with 69% accuracy.
 - **Least Effective Model:** Gaussian Naive Bayes.
+
+## Acknowledgements
+
+Special thanks to **Angeline** and **Alexander** for their valuable contributions to this project.
